@@ -1,0 +1,16 @@
+.quiz-answers-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.quiz-answers-wrapper img {
+    width: 100px;
+}
+
+.quiz-answers-wrapper button {
+    width: calc(50% - 30px);
+    display: flex;
+    justify-content: flex-start;
+}

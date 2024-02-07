@@ -1,0 +1,327 @@
+{
+    "abarth": {
+        "name": "Abarth",
+        "image": "/assets/images/brand_images/abarth.png",
+        "origin": "italy"
+    },
+    "ac": {
+        "name": "AC",
+        "image": "/assets/images/brand_images/ac.png",
+        "origin": "uk"
+    },
+    "aixam": {
+        "name": "Aixam",
+        "image": "/assets/images/brand_images/aixam.png",
+        "origin": "france"
+    },
+    "alfa_romeo": {
+        "name": "Alfa Romeo",
+        "image": "/assets/images/brand_images/alfa_romeo.png",
+        "origin": "italy"
+    },
+    "alpina": {
+        "name": "Alpina",
+        "image": "/assets/images/brand_images/alpina.png",
+        "origin": "germany"
+    },
+    "alpine": {
+        "name": "Alpine",
+        "image": "/assets/images/brand_images/alpine.png",
+        "origin": "france"
+    },
+    "aston_martin": {
+        "name": "Aston Martin",
+        "image": "/assets/images/brand_images/aston_martin.png",
+        "origin": "uk"
+    },
+    "audi": {
+        "name": "Audi",
+        "image": "/assets/images/brand_images/audi.png",
+        "origin": "germany"
+    },
+    "bac": {
+        "name": "Bac",
+        "image": "/assets/images/brand_images/bac.png",
+        "origin": "uk"
+    },
+    "bentley": {
+        "name": "Bentley",
+        "image": "/assets/images/brand_images/bentley.png",
+        "origin": "uk"
+    },
+    "bmw": {
+        "name": "BMW",
+        "image": "/assets/images/brand_images/bmw.png",
+        "origin": "germany"
+    },
+    "bristol": {
+        "name": "Bristol",
+        "image": "/assets/images/brand_images/bristol.png",
+        "origin": "uk"
+    },
+    "bugatti": {
+        "name": "Bugatti",
+        "image": "/assets/images/brand_images/bugatti.png",
+        "origin": "france"
+    },
+    "byd": {
+        "name": "BYD",
+        "image": "/assets/images/brand_images/byd.png",
+        "origin": "china"
+    },
+    "chevrolet": {
+        "name": "Chevrolet",
+        "image": "/assets/images/brand_images/chevrolet.png",
+        "origin": "us"
+    },
+    "chrysler": {
+        "name": "Chrysler",
+        "image": "/assets/images/brand_images/chrysler.png",
+        "origin": "us"
+    },
+    "citroen": {
+        "name": "Citroen",
+        "image": "/assets/images/brand_images/citroen.png",
+        "origin": "france"
+    },
+    "cupra": {
+        "name": "Cupra",
+        "image": "/assets/images/brand_images/cupra.png",
+        "origin": "spain"
+    },
+    "dacia": {
+        "name": "Dacia",
+        "image": "/assets/images/brand_images/dacia.png",
+        "origin": "romania"
+    },
+    "dodge": {
+        "name": "Dodge",
+        "image": "/assets/images/brand_images/dodge.png",
+        "origin": "us"
+    },
+    "ds": {
+        "name": "DS",
+        "image": "/assets/images/brand_images/ds.png",
+        "origin": "france"
+    },
+    "eagle": {
+        "name": "Eagle",
+        "image": "/assets/images/brand_images/eagle.png",
+        "origin": "us"
+    },
+    "ferrari": {
+        "name": "Ferrari",
+        "image": "/assets/images/brand_images/ferrari.png",
+        "origin": "italy"
+    },
+    "fiat": {
+        "name": "Fiat",
+        "image": "/assets/images/brand_images/fiat.png",
+        "origin": "italy"
+    },
+    "ford": {
+        "name": "Ford",
+        "image": "/assets/images/brand_images/ford.png",
+        "origin": "us"
+    },
+    "genesis": {
+        "name": "Genesis",
+        "image": "/assets/images/brand_images/genesis.png",
+        "origin": "south_korea"
+    },
+    "honda": {
+        "name": "Honda",
+        "image": "/assets/images/brand_images/honda.png",
+        "origin": "japan"
+    },
+    "hummer": {
+        "name": "Hummer",
+        "image": "/assets/images/brand_images/hummer.png",
+        "origin": "us"
+    },
+    "hyundai": {
+        "name": "Hyundai",
+        "image": "/assets/images/brand_images/hyundai.png",
+        "origin": "south_korea"
+    },
+    "infiniti": {
+        "name": "Infiniti",
+        "image": "/assets/images/brand_images/infiniti.png",
+        "origin": "japan"
+    },
+    "isuzu": {
+        "name": "Isuzu",
+        "image": "/assets/images/brand_images/isuzu.png",
+        "origin": "japan"
+    },
+    "jaguar": {
+        "name": "Jaguar",
+        "image": "/assets/images/brand_images/jaguar.png",
+        "origin": "uk"
+    },
+    "jeep": {
+        "name": "Jeep",
+        "image": "/assets/images/brand_images/jeep.png",
+        "origin": "us"
+    },
+    "kia": {
+        "name": "Kia",
+        "image": "/assets/images/brand_images/kia.png",
+        "origin": "south_korea"
+    },
+    "koenigsegg": {
+        "name": "Koenigsegg",
+        "image": "/assets/images/brand_images/koenigsegg.png",
+        "origin": "sweden"
+    },
+    "lamborghini": {
+        "name": "Lamborghini",
+        "image": "/assets/images/brand_images/lamborghini.png",
+        "origin": "italy"
+    },
+    "lexus": {
+        "name": "Lexus",
+        "image": "/assets/images/brand_images/lexus.png",
+        "origin": "japan"
+    },
+    "lotus": {
+        "name": "Lotus",
+        "image": "/assets/images/brand_images/lotus.png",
+        "origin": "uk"
+    },
+    "maserati": {
+        "name": "Maserati",
+        "image": "/assets/images/brand_images/maserati.png",
+        "origin": "italy"
+    },
+    "maybach": {
+        "name": "Maybach",
+        "image": "/assets/images/brand_images/maybach.png",
+        "origin": "germany"
+    },
+    "mazda": {
+        "name": "Mazda",
+        "image": "/assets/images/brand_images/mazda.png",
+        "origin": "japan"
+    },
+    "mclaren": {
+        "name": "McLaren",
+        "image": "/assets/images/brand_images/mclaren.png",
+        "origin": "uk"
+    },
+    "mercedes_benz": {
+        "name": "Mercedes Benz",
+        "image": "/assets/images/brand_images/mercedes_benz.png",
+        "origin": "germany"
+    },
+    "mg": {
+        "name": "MG",
+        "image": "/assets/images/brand_images/mg.png",
+        "origin": "uk"
+    },
+    "mini": {
+        "name": "Mini",
+        "image": "/assets/images/brand_images/mini.png",
+        "origin": "uk"
+    },
+    "mitsubishi": {
+        "name": "Mitsubishi",
+        "image": "/assets/images/brand_images/mitsubishi.png",
+        "origin": "japan"
+    },
+    "nissan": {
+        "name": "Nissan",
+        "image": "/assets/images/brand_images/nissan.png",
+        "origin": "japan"
+    },
+    "opel": {
+        "name": "Opel",
+        "image": "/assets/images/brand_images/opel.png",
+        "origin": "germany"
+    },
+    "pagani": {
+        "name": "Pagani",
+        "image": "/assets/images/brand_images/pagani.png",
+        "origin": "italy"
+    },
+    "peugeot": {
+        "name": "Peugeot",
+        "image": "/assets/images/brand_images/peugeot.png",
+        "origin": "germany"
+    },
+    "pgo": {
+        "name": "PGO",
+        "image": "/assets/images/brand_images/pgo.png",
+        "origin": "france"
+    },
+    "polestar": {
+        "name": "Polestar",
+        "image": "/assets/images/brand_images/polestar.png",
+        "origin": "sweden"
+    },
+    "porsche": {
+        "name": "Porsche",
+        "image": "/assets/images/brand_images/porsche.png",
+        "origin": "germany"
+    },
+    "renault": {
+        "name": "Renault",
+        "image": "/assets/images/brand_images/renault.png",
+        "origin": "france"
+    },
+    "rolls_royce": {
+        "name": "Rolls Royce",
+        "image": "/assets/images/brand_images/rolls_royce.png",
+        "origin": "uk"
+    },
+    "seat": {
+        "name": "Seat",
+        "image": "/assets/images/brand_images/seat.png",
+        "origin": "spain"
+    },
+    "skoda": {
+        "name": "Skoda",
+        "image": "/assets/images/brand_images/skoda.png",
+        "origin": "czech_republic"
+    },
+    "smart": {
+        "name": "Smart",
+        "image": "/assets/images/brand_images/smart.png",
+        "origin": "germany"
+    },
+    "ssang_yong": {
+        "name": "Ssang Yong",
+        "image": "/assets/images/brand_images/ssang_yong.png",
+        "origin": "south_korea"
+    },
+    "subaru": {
+        "name": "Subaru",
+        "image": "/assets/images/brand_images/subaru.png",
+        "origin": "japan"
+    },
+    "suzuki": {
+        "name": "Suzuki",
+        "image": "/assets/images/brand_images/suzuki.png",
+        "origin": "japan"
+    },
+    "tesla": {
+        "name": "Tesla",
+        "image": "/assets/images/brand_images/tesla.png",
+        "origin": "us"
+    },
+    "toyota": {
+        "name": "Toyota",
+        "image": "/assets/images/brand_images/toyota.png",
+        "origin": "japan"
+    },
+    "volvo": {
+        "name": "Volvo",
+        "image": "/assets/images/brand_images/volvo.png",
+        "origin": "sweden"
+    },
+    "volkswagen": {
+        "name": "Volkswagen",
+        "image": "/assets/images/brand_images/volkswagen.png",
+        "origin": "germany"
+    }
+}
