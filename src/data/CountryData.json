@@ -1,66 +1,66 @@
 {
   "italy": {
     "name": "Italy",
-    "image": "/assets/images/country_images/italy.png"
+    "image": "/who-made-it/assets/images/country_images/italy.png"
   },
   "uk": {
     "name": "United Kingdom",
-    "image": "/assets/images/country_images/uk.png"
+    "image": "/who-made-it/assets/images/country_images/uk.png"
   },
   "france": {
     "name": "France",
-    "image": "/assets/images/country_images/france.png"
+    "image": "/who-made-it/assets/images/country_images/france.png"
   },
   "germany": {
     "name": "Germany",
-    "image": "/assets/images/country_images/germany.png"
+    "image": "/who-made-it/assets/images/country_images/germany.png"
   },
   "spain": {
     "name": "Spain",
-    "image": "/assets/images/country_images/spain.png"
+    "image": "/who-made-it/assets/images/country_images/spain.png"
   },
   "romania": {
     "name": "Romania",
-    "image": "/assets/images/country_images/romania.png"
+    "image": "/who-made-it/assets/images/country_images/romania.png"
   },
   "china": {
     "name": "China",
-    "image": "/assets/images/country_images/china.png"
+    "image": "/who-made-it/assets/images/country_images/china.png"
   },
   "us": {
     "name": "United States",
-    "image": "/assets/images/country_images/us.png"
+    "image": "/who-made-it/assets/images/country_images/us.png"
   },
   "south_korea": {
     "name": "South Korea",
-    "image": "/assets/images/country_images/south_korea.png"
+    "image": "/who-made-it/assets/images/country_images/south_korea.png"
   },
   "japan": {
     "name": "Japan",
-    "image": "/assets/images/country_images/japan.png"
+    "image": "/who-made-it/assets/images/country_images/japan.png"
   },
   "sweden": {
     "name": "Sweden",
-    "image": "/assets/images/country_images/sweden.png"
+    "image": "/who-made-it/assets/images/country_images/sweden.png"
   },
   "czech_republic": {
     "name": "Czech Republic",
-    "image": "/assets/images/country_images/czech_republic.png"
+    "image": "/who-made-it/assets/images/country_images/czech_republic.png"
   },
   "australia": {
     "name": "Australia",
-    "image": "/assets/images/country_images/australia.png"
+    "image": "/who-made-it/assets/images/country_images/australia.png"
   },
   "canada": {
     "name": "Canada",
-    "image": "/assets/images/country_images/canada.png"
+    "image": "/who-made-it/assets/images/country_images/canada.png"
   },
   "nz": {
     "name": "New Zealand",
-    "image": "/assets/images/country_images/nz.png"
+    "image": "/who-made-it/assets/images/country_images/nz.png"
   },
   "india": {
     "name": "India",
-    "image": "/assets/images/country_images/india.png"
+    "image": "/who-made-it/assets/images/country_images/india.png"
   }
 }
