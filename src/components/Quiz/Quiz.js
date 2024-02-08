@@ -1,11 +1,10 @@
 import { useRef, useState } from 'react';
 import Body from '../UI/Body/Body'
-import QuizQuestion from './QuizQuestions/QuizQuestion';
-import QuizAnswers from './QuizAnswers/QuizAnswers';
 import CarData from '../../data/CarData.json';
 import CountryData from '../../data/CountryData.json';
 import getQuestionAnswer from '../Util/getQuestionAnswer';
 import QuizResults from './QuizResults/QuizResults';
+import QuizContent from './QiuzContent/QiuzContent';
 
 const Quiz = (props) => {
 
@@ -59,13 +58,10 @@ const Quiz = (props) => {
       />
     </Body> :
     <Body>
-      <QuizQuestion
+      <QuizContent
         questionAnswer={questionAnswer}
-      />
-      <h4>Score: {score}</h4>
-      <QuizAnswers 
         hasAnswered={hasAnsweredHandler}
-        questionAnswer={questionAnswer}
+        score={score}
       />
     </Body>
   )
