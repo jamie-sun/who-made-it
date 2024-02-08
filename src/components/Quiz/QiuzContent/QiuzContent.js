@@ -2,6 +2,7 @@ import CarData from "../../../data/CarData.json";
 import CountryData from '../../../data/CountryData.json';
 import Heading from "../../Heading/Heading";
 import Button from '../../UI/Button/Button';
+import '../QiuzContent/QiuzContent.css';
 
 const QuizContent = (props) => {
 
