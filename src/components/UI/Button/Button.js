@@ -1,5 +1,6 @@
 import React from 'react';
 import MuiButton from '@mui/material/Button'
+import './Button.css'
 
 const Button = (props) => {
   
@@ -8,12 +9,14 @@ const Button = (props) => {
   }
 
   return (
+    <div className="mui-button">
     <MuiButton
       variant="outlined"
       onClick={buttonClickHandler}
     >
       {props.children}
     </MuiButton>
+    </div>
   );
 };
 

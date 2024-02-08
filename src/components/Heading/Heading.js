@@ -1,6 +1,6 @@
 const Heading = (props) => {
   return(
-    <div className="wrapper">
+    <div className="heading">
       <h1>{props.children}</h1>
     </div>
   )

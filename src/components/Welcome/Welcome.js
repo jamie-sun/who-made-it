@@ -10,15 +10,17 @@ const Welcome = (props) => {
 
   return(
     <Body>
-      <Heading>Who made it?</Heading>
-      <h4>Instructions</h4>
+      <Heading>WHO MADE IT?</Heading>
+      <h3>Instructions</h3>
       <p>You will be presented with a car manufacturer brand and a list of countries, and you'd have to guess the country origin of this brand</p>
-      <p>Your high score: {props.highScore}</p>
-      <Button
-        onClick={buttonClickedHandler}
-      >
-        Begin!
-      </Button> 
+      <p className='highscore'>Your high score: {props.highScore}</p>
+      <div className='begin-button'>
+        <Button
+          onClick={buttonClickedHandler}
+        >
+          Begin!
+        </Button> 
+      </div>
     </Body>
   )
 }

@@ -1,5 +1,6 @@
 import Heading from '../../Heading/Heading';
 import Button from '../../UI/Button/Button';
+import '../QuizResults/QuizResults.css';
 
 const QuizResults = (props) => {
 
@@ -13,17 +14,19 @@ const QuizResults = (props) => {
   return(
     <div>
       <Heading>Game Over</Heading>
-      <p>Congratulations! You scored: {props.score}</p>
-      <Button
-        onClick={playAgainButtonHandler}
-      >
-        Play Again
-      </Button>
-      <Button
-        onClick={exitButtonHandler}
-      >
-        Exit
-      </Button>
+      <p className='congrats-score'>Congratulations! You scored: {props.score}</p>
+      <div className='results-buttons'>
+        <Button
+          onClick={playAgainButtonHandler}
+        >
+          Play Again
+        </Button>
+        <Button
+          onClick={exitButtonHandler}
+        >
+          Exit
+        </Button>
+      </div>
     </div>
   )
 }

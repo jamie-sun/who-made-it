@@ -23,13 +23,17 @@ const QuizContent = (props) => {
     <div>
       <div>
         <Heading>{CarData[askedQuestion].name}</Heading>
-        <img src={CarData[askedQuestion].image} alt="" />
+        <img 
+          src={CarData[askedQuestion].image} 
+          alt={CarData[askedQuestion].name} 
+          className="question-image"
+        />
       </div>
       <h4>Score: {props.score}</h4>
       <div className="quiz-answers-wrapper">
         {answerList.map((key) => (
           <Button onClick={() => buttonClickedHandler(key)} key={key}>
-            <img src={CountryData[key].image} alt="" />
+            <img src={CountryData[key].image} alt={CountryData[key].name} />
             {CountryData[key].name}
           </Button>
         ))}
